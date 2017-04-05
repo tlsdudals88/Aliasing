@@ -14,6 +14,7 @@
        java Mypart1 16 2.0 0
    
    2. Mypart2.java
+   
    The first parameter n is the number of lines to create an image with radial pattern of n black lines starting from the center of the image towards the boundaries. 
    The image has a white background. Each consecutive line is separated by 360/n degrees. The idea here is by increasing n, you can increase the frequency content in an image.
    The second parameter s will be a speed of rotations in terms of rotations per second. 
